@@ -1,4 +1,4 @@
-# Bienvenido al proyecto de Tienda de Licores!
+# Bienvenido a Quien Quiere ser Millonario!
 
 Hola! Bienvenido a la aplicacion **JuegoMillonario**. 
 Es una aplicacion de escritorio Windows que tiene un entorno recreado en el juego popular de la TV ¿Quien quiere ser millonario?.
